@@ -1,0 +1,2 @@
+# fullpage-autoscroll
+WordPress Plugin
